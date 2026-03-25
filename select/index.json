@@ -1,0 +1,400 @@
+{
+  "version": 1,
+  "base_track": "My You",
+  "base_artist": "Jung Kook",
+  "createdAt": "2026-03-25T05:39:00.488334Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "My You",
+      "artist": "Jung Kook",
+      "has_synced": true,
+      "path": "select/01_My_You_Jung_Kook.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "My You",
+      "artist": "Jung Kook",
+      "has_synced": true,
+      "path": "select/02_My_You_Jung_Kook.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "My You (Kookie Violin Duet)",
+      "artist": "OMJamie",
+      "has_synced": true,
+      "path": "select/03_My_You_(Kookie_Violin_Duet)_OMJamie.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "My You",
+      "artist": "Jung Kook",
+      "has_synced": true,
+      "path": "select/04_My_You_Jung_Kook.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "You're My You",
+      "artist": "Nyoy Volante",
+      "has_synced": false,
+      "path": "select/05_You're_My_You_Nyoy_Volante.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "My You",
+      "artist": "정국 (Jung Kook)",
+      "has_synced": true,
+      "path": "select/06_My_You_정국_(Jung_Kook).lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "My You",
+      "artist": "Jung Kook",
+      "has_synced": true,
+      "path": "select/07_My_You_Jung_Kook.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "You're My You",
+      "artist": "Nyoy Volante with Mannos",
+      "has_synced": true,
+      "path": "select/08_You're_My_You_Nyoy_Volante_with_Mannos.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "You'Re My You",
+      "artist": "Nyoy Volante with Mannos",
+      "has_synced": true,
+      "path": "select/09_You'Re_My_You_Nyoy_Volante_with_Mannos.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "You're my you",
+      "artist": "NYOY VOLANTE & THE MANNOS",
+      "has_synced": true,
+      "path": "select/10_You're_my_you_NYOY_VOLANTE_&_THE_MANNOS.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "My, You and My Medication",
+      "artist": "Boys Like Girls",
+      "has_synced": true,
+      "path": "select/11_My,_You_and_My_Medication_Boys_Like_Girls.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Skip To My You My Darling",
+      "artist": "Prince & The New Power Generation",
+      "has_synced": true,
+      "path": "select/12_Skip_To_My_You_My_Darling_Prince_&_The_New_Power_Generation.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Skip to My You My Darling",
+      "artist": "Prince",
+      "has_synced": true,
+      "path": "select/13_Skip_to_My_You_My_Darling_Prince.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "My You",
+      "artist": "Hump Back",
+      "has_synced": false,
+      "path": "select/14_My_You_Hump_Back.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "My You, My Star",
+      "artist": "Nam Saera",
+      "has_synced": false,
+      "path": "select/15_My_You,_My_Star_Nam_Saera.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "I Knew You Were Trouble.",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/16_I_Knew_You_Were_Trouble._Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Look What You Made Me Do",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/17_Look_What_You_Made_Me_Do_Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "'Til You Can't",
+      "artist": "Cody Johnson",
+      "has_synced": true,
+      "path": "select/18_'Til_You_Can't_Cody_Johnson.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Are You Bored Yet? (feat. Clairo)",
+      "artist": "Wallows feat. Clairo",
+      "has_synced": true,
+      "path": "select/19_Are_You_Bored_Yet__(feat._Clairo)_Wallows_feat._Clairo.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Are You Bored Yet? (feat. Clairo)",
+      "artist": "Wallows;Clairo",
+      "has_synced": true,
+      "path": "select/20_Are_You_Bored_Yet__(feat._Clairo)_Wallows;Clairo.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Are You Bored Yet? (feat. Clairo)",
+      "artist": "Wallows",
+      "has_synced": true,
+      "path": "select/21_Are_You_Bored_Yet__(feat._Clairo)_Wallows.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Are You Lonely (feat. ISÁK)",
+      "artist": "Steve Aoki feat. Alan Walker & Isak",
+      "has_synced": true,
+      "path": "select/22_Are_You_Lonely_(feat._ISÁK)_Steve_Aoki_feat._Alan_Walker_&_Isak.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "Are You Lonely",
+      "artist": "Steve Aoki;Alan Walker;Isak",
+      "has_synced": true,
+      "path": "select/23_Are_You_Lonely_Steve_Aoki;Alan_Walker;Isak.lrc"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "Can't Have Mine (Find You a Girl)",
+      "artist": "Dylan Scott",
+      "has_synced": true,
+      "path": "select/24_Can't_Have_Mine_(Find_You_a_Girl)_Dylan_Scott.lrc"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "Chasing After You",
+      "artist": "Ryan Hurd",
+      "has_synced": true,
+      "path": "select/25_Chasing_After_You_Ryan_Hurd.lrc"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "Country'd Look Good On You",
+      "artist": "Frank Ray",
+      "has_synced": true,
+      "path": "select/26_Country'd_Look_Good_On_You_Frank_Ray.lrc"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "Do It All for You",
+      "artist": "Alan Walker feat. Trevor Guthrie",
+      "has_synced": true,
+      "path": "select/27_Do_It_All_for_You_Alan_Walker_feat._Trevor_Guthrie.lrc"
+    },
+    {
+      "id": "lrclib_28",
+      "source": "lrclib",
+      "title": "Do It All for You",
+      "artist": "Alan Walker;Trevor Guthrie",
+      "has_synced": true,
+      "path": "select/28_Do_It_All_for_You_Alan_Walker;Trevor_Guthrie.lrc"
+    },
+    {
+      "id": "lrclib_29",
+      "source": "lrclib",
+      "title": "Don't Need You",
+      "artist": "Rameses B feat. Laura Brehm",
+      "has_synced": true,
+      "path": "select/29_Don't_Need_You_Rameses_B_feat._Laura_Brehm.lrc"
+    },
+    {
+      "id": "lrclib_30",
+      "source": "lrclib",
+      "title": "Don't Need You",
+      "artist": "Rameses B",
+      "has_synced": true,
+      "path": "select/30_Don't_Need_You_Rameses_B.lrc"
+    },
+    {
+      "id": "lrclib_31",
+      "source": "lrclib",
+      "title": "Arthas, My Son (Cinematic Intro)",
+      "artist": "Neal Acree feat. Jason Hayes",
+      "has_synced": false,
+      "path": "select/31_Arthas,_My_Son_(Cinematic_Intro)_Neal_Acree_feat._Jason_Hayes.txt"
+    },
+    {
+      "id": "lrclib_32",
+      "source": "lrclib",
+      "title": "Arthas, My Son (Cinematic Intro)",
+      "artist": "Jason Hayes/Neal Acree",
+      "has_synced": false,
+      "path": "select/32_Arthas,_My_Son_(Cinematic_Intro)_Jason_Hayes_Neal_Acree.txt"
+    },
+    {
+      "id": "lrclib_33",
+      "source": "lrclib",
+      "title": "My Mother Told Me (In Old Norse)",
+      "artist": "Colm R. McGuinness",
+      "has_synced": true,
+      "path": "select/33_My_Mother_Told_Me_(In_Old_Norse)_Colm_R._McGuinness.lrc"
+    },
+    {
+      "id": "lrclib_34",
+      "source": "lrclib",
+      "title": "Pay Me My Money Down",
+      "artist": "The Longest Johns",
+      "has_synced": true,
+      "path": "select/34_Pay_Me_My_Money_Down_The_Longest_Johns.lrc"
+    },
+    {
+      "id": "lrclib_35",
+      "source": "lrclib",
+      "title": "BREAK MY SOUL",
+      "artist": "Beyoncé",
+      "has_synced": true,
+      "path": "select/35_BREAK_MY_SOUL_Beyoncé.lrc"
+    },
+    {
+      "id": "lrclib_36",
+      "source": "lrclib",
+      "title": "Cold Beer Calling My Name (Live)",
+      "artist": "Jameson Rodgers",
+      "has_synced": false,
+      "path": "select/36_Cold_Beer_Calling_My_Name_(Live)_Jameson_Rodgers.txt"
+    },
+    {
+      "id": "lrclib_37",
+      "source": "lrclib",
+      "title": "Dirt On My Boots",
+      "artist": "Jon Pardi",
+      "has_synced": true,
+      "path": "select/37_Dirt_On_My_Boots_Jon_Pardi.lrc"
+    },
+    {
+      "id": "lrclib_38",
+      "source": "lrclib",
+      "title": "Girls In My Hometown",
+      "artist": "Danielle Bradbery",
+      "has_synced": true,
+      "path": "select/38_Girls_In_My_Hometown_Danielle_Bradbery.lrc"
+    },
+    {
+      "id": "lrclib_39",
+      "source": "lrclib",
+      "title": "Iko Iko (My Bestie) [feat. Small Jam]",
+      "artist": "Justin Wellington feat. Pedro Capó & Small Jam",
+      "has_synced": true,
+      "path": "select/39_Iko_Iko_(My_Bestie)_[feat._Small_Jam]_Justin_Wellington_feat._Pedro_Capó_&_Small_Jam.lrc"
+    },
+    {
+      "id": "lrclib_40",
+      "source": "lrclib",
+      "title": "In My Bones",
+      "artist": "Ray Dalton",
+      "has_synced": true,
+      "path": "select/40_In_My_Bones_Ray_Dalton.lrc"
+    },
+    {
+      "id": "lrclib_41",
+      "source": "lrclib",
+      "title": "Key to My Heart",
+      "artist": "Frank Vieira",
+      "has_synced": false,
+      "path": "select/41_Key_to_My_Heart_Frank_Vieira.txt"
+    },
+    {
+      "id": "lrclib_42",
+      "source": "lrclib",
+      "title": "My Bar",
+      "artist": "Priscilla Block",
+      "has_synced": true,
+      "path": "select/42_My_Bar_Priscilla_Block.lrc"
+    },
+    {
+      "id": "lrclib_43",
+      "source": "lrclib",
+      "title": "My Bar",
+      "artist": "Priscilla Block",
+      "has_synced": true,
+      "path": "select/43_My_Bar_Priscilla_Block.lrc"
+    },
+    {
+      "id": "lrclib_44",
+      "source": "lrclib",
+      "title": "My Blue Angel",
+      "artist": "Aaron Tippin",
+      "has_synced": false,
+      "path": "select/44_My_Blue_Angel_Aaron_Tippin.txt"
+    },
+    {
+      "id": "lrclib_45",
+      "source": "lrclib",
+      "title": "My Boy",
+      "artist": "Elvie Shane",
+      "has_synced": true,
+      "path": "select/45_My_Boy_Elvie_Shane.lrc"
+    },
+    {
+      "id": "lrclib_46",
+      "source": "lrclib",
+      "title": "My Boy",
+      "artist": "Elvie Shane",
+      "has_synced": true,
+      "path": "select/46_My_Boy_Elvie_Shane.lrc"
+    },
+    {
+      "id": "lrclib_47",
+      "source": "lrclib",
+      "title": "My Time's Comin'",
+      "artist": "A Thousand Horses",
+      "has_synced": false,
+      "path": "select/47_My_Time's_Comin'_A_Thousand_Horses.txt"
+    },
+    {
+      "id": "lrclib_48",
+      "source": "lrclib",
+      "title": "My Type",
+      "artist": "Saint Motel",
+      "has_synced": false,
+      "path": "select/48_My_Type_Saint_Motel.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "My You",
+      "artist": "Jung Kook",
+      "has_synced": false,
+      "path": "select/pl_01_My_You_Jung_Kook.txt"
+    }
+  ]
+}
